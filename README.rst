@@ -15,4 +15,4 @@ Conda package for ecos
     :alt: CircleCI
 
 This repository contains the `conda <https://conda.io/docs/user-guide/tasks/build-packages/>`_
-recipe for `scs <https://pypi.org/project/ecos/>`_.
+recipe for `ecos <https://pypi.org/project/ecos/>`_.
